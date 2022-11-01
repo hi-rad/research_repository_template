@@ -1,0 +1,14 @@
+.ipynb_checkpoints
+.vscode
+
+.idea
+
+*.cpython-*
+
+__pycache__
+
+.DS_Store
+
+results/
+saved_models/
+omar/
